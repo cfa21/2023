@@ -1,0 +1,516 @@
+2023 Overusage List
+
+Here's the 2023 list of players who are eligible for overusage. The OPS standards (70 points below the average at their position) are listed, and most players below that standard will have some additional plate appearances granted to them.
+
+The list adds about 11377 PAs and 121 pitcher starts to the pool, on top of the 20% of PAs or +4 GS these players already get (which is factored into their eligible PA and GS stats below).
+
+Please ask if you have any concerns or questions. Thanks.
+
+Pos OPS Waiv
+--------------------
+c = .663/.600
+1b = .746/.675
+2b = .699/.630
+3b = .725/.655
+ss = .692/.625
+lf = .725/.655
+cf = .688/.620
+rf = .725/.655
+
+600PA waiver, 140G limit:
+600PA: Bradley Jr., Jackie, of: 131G, .566 OPS, 444PA, +156
+600PA: Gallo, Joey, of: 126G, .638 OPS, 492PA, +108
+600PA: Robles, Victor, cf: 132G, .584 OPS, 488PA, +112
+
+500PA waiver, 140G limit:
+500PA: Allen, Nick, ss: 100G, .547 OPS, 391PA, +109
+500PA: Castro, Willi, of-2b: 112G, .651 OPS, 470PA, +30
+500PA: Celestino, Gilberto, of: 122G, .615 OPS, 416PA, +84
+500PA: Dalbec, Bobby, if: 117G, .652 OPS, 423PA, +77
+500PA: Engel, Adam, of: 119G, .579 OPS, 312PA, +188
+500PA: Franco, Maikel, 3b-1b: 103G, .597 OPS, 463PA, +37
+500PA: Garcia, Avisail, of: 98G, .582 OPS, 456PA, +44
+500PA: Garcia, Leury, ut: 97G, .500 OPS, 378PA, +122
+500PA: Grandal, Yasmani, c: 99G, .570 OPS, 451PA, +49
+500PA: Kelly, Carson, c: 104G, .617 OPS, 424PA, +76
+500PA: Maldonado, Martin, c: 113G, .600 OPS, 454PA, +46
+500PA: Nola, Austin, c: 110G, .649 OPS, 476PA, +24
+500PA: Ortega, Rafael, of: 118G, .688 OPS, 445PA, +55
+500PA: Ruf, Darin, 1b-of: 118G, .645 OPS, 465PA, +35
+500PA: Siri, Jose, of: 104G, .607 OPS, 390PA, +110
+500PA: Stallings, Jacob, c: 114G, .584 OPS, 460PA, +40
+500PA: Stassi, Max, c: 102G, .571 OPS, 450PA, +50
+500PA: Thomas, Alek, of: 113G, .619 OPS, 493PA, +7
+500PA: Torkelson, Spencer, 1b: 110G, .604 OPS, 484PA, +16
+500PA: Toro, Abraham, 2b-3b-rf-1b: 109G, .563 OPS, 422PA, +78
+500PA: Velazquez, Andrew, ss: 125G, .540 OPS, 418PA, +82
+500PA: Vierling, Matt, of-if: 117G, .648 OPS, 428PA, +72
+500PA: Wendle, Joey, if: 101G, .658 OPS, 445PA, +55
+
+400PA waiver, 140G limit:
+400PA: Abrams, CJ, if: 90G, .604 OPS, 362PA, +38
+400PA: Adell, Jo, of: 88G, .637 OPS, 342PA, +58
+400PA: Alcantara, Sergio, if: 93G, .617 OPS, 268PA, +132
+400PA: Alfaro, Jorge, c: 82G, .668 OPS, 328PA, +72
+400PA: Almora, Albert, of: 64G, .631 OPS, 282PA, +118
+400PA: Aquino, Aristides, of: 80G, .609 OPS, 331PA, +69
+400PA: Azocar, Jose, of: 98G, .629 OPS, 259PA, +141
+400PA: Baddoo, Akil, of: 73G, .558 OPS, 270PA, +130
+400PA: Barnhart, Tucker, c: 94G, .554 OPS, 369PA, +31
+400PA: Bart, Joey, c: 97G, .660 OPS, 349PA, +51
+400PA: Bleday, JJ, of: 65G, .586 OPS, 285PA, +115
+400PA: Caratini, Victor, c: 95G, .642 OPS, 376PA, +24
+400PA: Castillo, Diego, if-of: 96G, .633 OPS, 339PA, +61
+400PA: Dubon, Mauricio, of-if: 104G, .565 OPS, 318PA, +82
+400PA: Duffy, Matt, if: 77G, .619 OPS, 296PA, +104
+400PA: Gomes, Yan, c: 86G, .625 OPS, 351PA, +49
+400PA: Hampson, Garrett, cf-if: 90G, .594 OPS, 271PA, +129
+400PA: Isbel, Kyle, of: 106G, .603 OPS, 333PA, +67
+400PA: Knizner, Andrew, c: 96G, .601 OPS, 351PA, +49
+400PA: Machin, Vimael, if: 73G, .587 OPS, 303PA, +97
+400PA: Miller, Brad, of-3b: 81G, .590 OPS, 289PA, +111
+400PA: Molina, Yadier, c: 78G, .535 OPS, 324PA, +76
+400PA: Narvaez, Omar, c: 84G, .597 OPS, 355PA, +45
+400PA: Neuse, Sheldon, if: 89G, .561 OPS, 351PA, +49
+400PA: Nido, Tomas, c: 98G, .600 OPS, 375PA, +25
+400PA: Reynolds, Matt, ut: 93G, .652 OPS, 326PA, +74
+400PA: Rivas, Alfonso, 1b-of: 101G, .628 OPS, 344PA, +56
+400PA: Schwindel, Frank, 1b: 75G, .635 OPS, 350PA, +50
+400PA: Smith, Josh, of-if: 73G, .556 OPS, 303PA, +97
+400PA: Smith, Pavin, rf-1b: 75G, .667 OPS, 333PA, +67
+
+300PA waiver, 140G limit:
+300PA: Alberto, Hanser, if: 73G, .623 OPS, 190PA, +110
+300PA: Bride, Jonah, if: 58G, .548 OPS, 224PA, +76
+300PA: Camargo, Johan, if: 58G, .613 OPS, 199PA, +101
+300PA: Casali, Curt, c: 57G, .649 OPS, 211PA, +89
+300PA: Cave, Jake, of: 54G, .644 OPS, 212PA, +88
+300PA: Chironos, Robinson, c: 67G, .552 OPS, 264PA, +36
+300PA: Clement, Ernie, if: 69G, .452 OPS, 214PA, +86
+300PA: Culberson, Charlie, ut: 68G, .640 OPS, 148PA, +152
+300PA: DeJong, Paul, ss-2b: 77G, .530 OPS, 284PA, +16
+300PA: Delay, Jason, c: 57G, .536 OPS, 200PA, +100
+300PA: Duran, Ezequiel, 3b-2b: 58G, .643 OPS, 264PA, +36
+300PA: Fortes, Nick, c: 72G, .696 OPS, 288PA, +12
+300PA: Gonzalez, Marwin, ut: 85G, .576 OPS, 248PA, +52
+300PA: Heineman, Tyler, c: 62G, .544 OPS, 208PA, +92
+300PA: Heredia, Guillermo, of: 74G, .562 OPS, 98PA, +202
+300PA: Higgins, P.J., 1b-c: 74G, .693 OPS, 274PA, +26
+300PA: Hilliard, Sam, of: 70G, .544 OPS, 240PA, +60
+300PA: Hummel, Cooper, of: 66G, .580 OPS, 241PA, +59
+300PA: Kelenic, Jarred, of: 54G, .534 OPS, 217PA, +83
+300PA: Luplow, Jordan, of: 83G, .634 OPS, 280PA, +20
+300PA: Madrigal, Nick, 2b: 59G, .588 OPS, 273PA, +27
+300PA: Maile, Luke, c: 76G, .627 OPS, 247PA, +53
+300PA: Marcano, Tucupita, of-if: 49G, .562 OPS, 212PA, +88
+300PA: McCann, James, c: 61G, .538 OPS, 229PA, +71
+300PA: McKinstry, Zach, if-of: 57G, .635 OPS, 222PA, +78
+300PA: Meyers, Jake, cf: 57G, .582 OPS, 192PA, +108
+300PA: Mitchell, Calvin, of: 69G, .635 OPS, 278PA, +22
+300PA: Nevin, Tyler, 3b-1b-of: 58G, .560 OPS, 220PA, +80
+300PA: O'Hearn, Ryan, 1b: 67G, .611 OPS, 174PA, +126
+300PA: Phillips, Brett, of: 83G, .466 OPS, 270PA, +30
+300PA: Plawecki, Kevin, c: 63G, .572 OPS, 223PA, +77
+300PA: Pratto, Nick, 1b: 49G, .657 OPS, 218PA, +82
+300PA: Serven, Brian, c: 62G, .593 OPS, 246PA, +54
+300PA: Smith, Dominic, 1b: 58G, .560 OPS, 182PA, +118
+300PA: Sosa, Edmundo, ut: 78G, .644 OPS, 228PA, +72
+300PA: Suzuki, Kurt, c: 51G, .561 OPS, 190PA, +110
+300PA: Thompson, Bubba, of: 55G, .613 OPS, 217PA, +83
+300PA: Torrens, Luis, c: 55G, .581 OPS, 199PA, +101
+300PA: Tsutsugo, Yoshi, 1b: 50G, .478 OPS, 231PA, +69
+300PA: VanMeter, Josh, 2b-1b: 67G, .558 OPS, 230PA, +70
+300PA: Velasquez, Nelson, of: 77G, .659 OPS, 247PA, +53
+300PA: Villar, Jonathan, if: 59G, .562 OPS, 264PA, +36
+300PA: Wade, Tyler, if-of: 67G, .544 OPS, 195PA, +105
+300PA: Williams, Luke, ut: 79G, .602 OPS, 163PA, +137
+300PA: Zimmer, Bradley, of: 109G, .435 OPS, 140PA, +160
+
+200PA waiver, 140G limit:
+200PA: Adams, Riley, c-1b: 48G, .555 OPS, 186PA, +14
+200PA: Adrianza, Ehire, if: 37G, .470 OPS, 132PA, +68
+200PA: Allen, Greg, of: 46G, .531 OPS, 160PA, +40
+200PA: Andujar, Miguel, of-1b: 36G, .568 OPS, 168PA, +32
+200PA: Aranda, Jonathan, if: 32G, .596 OPS, 114PA, +86
+200PA: Barrera, Luis, of: 73G, .632 OPS, 102PA, +98
+200PA: Bolt, Skye, of: 42G, .589 OPS, 139PA, +61
+200PA: Campusano, Luis, c: 16G, .593 OPS, 60PA, +140
+200PA: Collins, Zack, c-1b: 36G, .551 OPS, 129PA, +71
+200PA: Demeritte, Travis, rf-lf: 26G, .597 OPS, 115PA, +85
+200PA: Encarnacion, Jerar, of: 23G, .548 OPS, 97PA, +103
+200PA: Escobar, Alcides, ss-2b: 40G, .542 OPS, 157PA, +43
+200PA: Freeman, Tyler, if: 24G, .600 OPS, 103PA, +97
+200PA: Gallagher, Cam, c: 18G, .600 OPS, 56PA, +144
+200PA: Garcia, Dermis, 1b: 39G, .652 OPS, 150PA, +50
+200PA: Herrera, Jose, c: 47G, .457 OPS, 148PA, +52
+200PA: Heyward, Jason, of: 48G, .556 OPS, 181PA, +19
+200PA: Ibanez, Andy, 3b-2b-1b: 40G, .551 OPS, 153PA, +47
+200PA: Kirilloff, Alex, of: 45G, .651 OPS, 187PA, +13
+200PA: Leon, Sandy, c: 26G, .509 OPS, 100PA, +100
+200PA: Lopez, Alejo, ut: 59G, .645 OPS, 187PA, +13
+200PA: Madris, Bligh, of: 39G, .509 OPS, 147PA, +53
+200PA: Matijevic, J.J., 1b-lf: 32G, .582 OPS, 85PA, +115
+200PA: Mazeika, Patrick, c: 24G, .508 OPS, 86PA, +114
+200PA: Mercado, Oscar, of: 55G, .614 OPS, 153PA, +47
+200PA: Mercedes, Yermin, lf-1b-c: 31G, .668 OPS, 99PA, +101
+200PA: Palacios, Richie, of: 54G, .578 OPS, 147PA, +53
+200PA: Perez, Michael, c: 45G, .511 OPS, 158PA, +42
+200PA: Pinto, Rene, c: 25G, .566 OPS, 99PA, +101
+200PA: Piscotty, Stephen, of: 42G, .593 OPS, 166PA, +34
+200PA: Romine, Austin, c: 51G, .435 OPS, 163PA, +37
+200PA: Toglia, Michael, 1b: 31G, .653 OPS, 144PA, +56
+200PA: White, Eli, of: 47G, .578 OPS, 140PA, +60
+200PA: Zunino, Mike, c: 36G, .499 OPS, 147PA, +53
+
+100PA waiver, 140G limit:
+100PA: Astudillo, Willians, if: 21G, .551 OPS, 66PA, +34
+100PA: Bemboom, Anthony, c: 22G, .418 OPS, 70PA, +30
+100PA: Bernard, Wynton, of: 12G, .595 OPS, 50PA, +50
+100PA: Burleson, Alec, of-1b: 16G, .535 OPS, 63PA, +37
+100PA: Contreras, Mark, of: 28G, .441 OPS, 73PA, +27
+100PA: Diaz, Jordan, 2b-1b: 15G, .621 OPS, 61PA, +39
+100PA: Downs, Jeter, if: 14G, .427 OPS, 49PA, +51
+100PA: Gonzalez, Erik, if: 16G, .485 OPS, 49PA, +51
+100PA: Groshans, Jordan, 3b: 17G, .619 OPS, 78PA, +22
+100PA: Henry, Payton, c: 15G, .457 OPS, 42PA, +58
+100PA: Jankowski, Travis, of: 44G, .445 OPS, 76PA, +24
+100PA: Knapp, Andrew, c: 16G, .393 OPS, 55PA, +45
+100PA: Lagares, Juan, of: 20G, .460 OPS, 74PA, +26
+100PA: Lewis, Kyle, of: 18G, .529 OPS, 74PA, +26
+100PA: Mayfield, Jack, if-of: 23G, .501 OPS, 88PA, +12
+100PA: Munoz, Yairo, 2b-3b-of: 29G, .654 OPS, 72PA, +28
+100PA: Nunez, Dom, c: 14G, .395 OPS, 49PA, +51
+100PA: Park, Hoy, if-rf: 23G, .648 OPS, 72PA, +28
+100PA: Raley, Luke, of: 22G, .584 OPS, 86PA, +14
+100PA: Reks, Zach, of: 16G, .559 OPS, 40PA, +60
+100PA: Robinson, Chuckie, c: 25G, .407 OPS, 72PA, +28
+100PA: Stevenson, Cal, of: 23G, .478 OPS, 85PA, +15
+100PA: Strange-Gordon, Dee, ut: 22G, .661 OPS, 70PA, +30
+100PA: Thaiss, Matt, c-1b-lf: 29G, .640 OPS, 97PA, +3
+100PA: Tucker, Cole, rf-if: 18G, .397 OPS, 75PA, +25
+100PA: Upton, Justin, of: 17G, .471 OPS, 68PA, +32
+100PA: Vargas, Miguel, 3b: 18G, .455 OPS, 60PA, +40
+100PA: Wallach, Chad, c: 12G, .488 OPS, 48PA, +52
+100PA: Walton, Donovan, of-3b: 25G, .482 OPS, 95PA, +5
+
+ 50PA waiver, 140G limit:
+ 50PA: DeLuzio, Ben, cf: 22G, .492 OPS, 30PA, +20
+ 50PA: Diaz, Yainer, c: 6G, .472 OPS, 11PA, +39
+ 50PA: Feliciano, Mario, c: 2G, .650 OPS, 6PA, +44
+ 50PA: Greiner, Grayson, c: 2G, .542 OPS, 9PA, +51
+ 50PA: Hamilton, Caleb, c-1b: 22G, .449 OPS, 27PA, +23
+ 50PA: Haseley, Adam, of: 14G, .571 OPS, 30PA, +20
+ 50PA: Lee, Korey, c: 12G, .432 OPS, 31PA, +19
+ 50PA: Machado, Dixon, ss: 5G, .494 OPS, 20PA, +30
+ 50PA: Mastrobuoni, Miles, 2b-rf: 8G, .423 OPS, 20PA, +30
+ 50PA: O'Hoppe, Logan, c: 5G, .661 OPS, 19PA, +31
+ 50PA: Perez, Carlos, c: 7G, .556 OPS, 21PA, +29
+ 50PA: Pina, Manny, c: 5G, .378 OPS, 20PA, +30
+ 50PA: Proctor, Ford, c-2b: 7G, .460 OPS, 26PA, +24
+ 50PA: Reyes, Pablo, if: 5G, .579 OPS, 19PA, +31
+ 50PA: Severino, Pedro, c: 8G, .667 OPS, 25PA, +25
+ 50PA: Walker, Steele, of: 5G, .473 OPS, 19PA, +31
+ 
+ 25PA waiver, 140G limit:
+ 25PA: Brantly, Rob, c: 1G, 1.000 OPS, 3PA, +22
+ 25PA: Capra, Vinny, 2b-of: 8G, .629 OPS, 8PA, +17
+ 25PA: Crook, Narciso, of: 4G, .597 OPS, 10PA, +15
+ 25PA: Fermin, Freddy, c: 3G, .000 OPS, 8PA, +17
+ 25PA: Okey, Chris, c: 7G, .397 OPS, 15PA, +10
+
+--------
+
+Waiver to 30 starts
+Keller, Brad (30GS, 26, +4)
+Thompson, Zach (30GS, 26, +4)
+
+Waiver to 25 starts
+Alexander, Tyler (25GS, 21, +4)
+Espino, Paolo (25GS, 23, +2)
+Feltner, Ryan (25GS, 23, +2)
+Gomber, Austin (25GS, 21, +4)
+Kikuchi, Yusei (25GS, 24, +1)
+Minor, Mike (25GS, 23, +2)
+Peterson, David (25GS, 23, +2)
+Senzatela, Antonio (25GS, 23, +2)
+Thompson, Keegan (25GS, 21, +4)
+Urena, Jose (25GS, 21, +4)
+Voth, Austin (25GS, 21, +4)
+White, Mitch (25GS, 22, +3)
+Wilson, Bryse (25GS, 24, +1)
+
+Waiver to 20 starts
+Adon, Joan (20GS, 18, +2)
+Alexander, Jason (20GS, 15, +5)
+Hearn, Taylor (20GS, 17, +3)
+Martinez, Nick (20GS, 14, +6)
+Oller, Adam (20GS, 18, +2)
+Winckowski, Josh (20GS, 18, +2)
+
+Waiver to 15 starts
+Abbott, Cory (15GS, 13, +2)
+Beeks, Jalen (15GS, 11, +4)
+Castellanos, Humberto (15GS, 13, +2)
+Castillo, Max (15GS, 10, +5)
+Cessa, Luis (15GS, 14, +1)
+Dunn, Justin (15GS, 11, +4)
+Gutierrez, Vladimir (15GS, 12, +3)
+Hernandez, Carlos (15GS, 11, +4)
+Hernandez, Elieser (15GS, 14, +1)
+Hicks, Jordan (15GS, 12, +3)
+Howard, Spencer (15GS, 12, +3)
+Sanchez, Aaron (15GS, 14, +1)
+Silseth, Chase (15GS, 11, +4)
+
+Waiver to 10 starts
+Armstrong, Shawn (10GS, 7, +3)
+Fleming, Josh (10GS, 7, +3)
+Gonzalez, Chi Chi (10GS, 9, +1)
+Koenig, Jared (10GS, 9, +1)
+Naughton, Packy (10GS, 7, +3)
+Norris, Daniel (10GS, 7, +3)
+Peters, Dillon (10GS, 8, +2)
+Rodriguez, Elvin (10GS, 9, +1)
+Schmidt, Clarke (10GS, 7, +3)
+Swarmer, Matt (10GS, 9, +1)
+------------------------------------------------
+
+Hitters, alphabetized
+
+400PA: Abrams, CJ, if: 90G, .604 OPS, 362PA, +38
+200PA: Adams, Riley, c-1b: 48G, .555 OPS, 186PA, +14
+400PA: Adell, Jo, of: 88G, .637 OPS, 342PA, +58
+200PA: Adrianza, Ehire, if: 37G, .470 OPS, 132PA, +68
+300PA: Alberto, Hanser, if: 73G, .623 OPS, 190PA, +110
+400PA: Alcantara, Sergio, if: 93G, .617 OPS, 268PA, +132
+400PA: Alfaro, Jorge, c: 82G, .668 OPS, 328PA, +72
+200PA: Allen, Greg, of: 46G, .531 OPS, 160PA, +40
+500PA: Allen, Nick, ss: 100G, .547 OPS, 391PA, +109
+400PA: Almora, Albert, of: 64G, .631 OPS, 282PA, +118
+200PA: Andujar, Miguel, of-1b: 36G, .568 OPS, 168PA, +32
+400PA: Aquino, Aristides, of: 80G, .609 OPS, 331PA, +69
+200PA: Aranda, Jonathan, if: 32G, .596 OPS, 114PA, +86
+100PA: Astudillo, Willians, if: 21G, .551 OPS, 66PA, +34
+400PA: Azocar, Jose, of: 98G, .629 OPS, 259PA, +141
+400PA: Baddoo, Akil, of: 73G, .558 OPS, 270PA, +130
+400PA: Barnhart, Tucker, c: 94G, .554 OPS, 369PA, +31
+200PA: Barrera, Luis, of: 73G, .632 OPS, 102PA, +98
+400PA: Bart, Joey, c: 97G, .660 OPS, 349PA, +51
+100PA: Bemboom, Anthony, c: 22G, .418 OPS, 70PA, +30
+100PA: Bernard, Wynton, of: 12G, .595 OPS, 50PA, +50
+400PA: Bleday, JJ, of: 65G, .586 OPS, 285PA, +115
+200PA: Bolt, Skye, of: 42G, .589 OPS, 139PA, +61
+600PA: Bradley Jr., Jackie, of: 131G, .566 OPS, 444PA, +156
+ 25PA: Brantly, Rob, c: 1G, 1.000 OPS, 3PA, +22
+300PA: Bride, Jonah, if: 58G, .548 OPS, 224PA, +76
+100PA: Burleson, Alec, of-1b: 16G, .535 OPS, 63PA, +37
+300PA: Camargo, Johan, if: 58G, .613 OPS, 199PA, +101
+200PA: Campusano, Luis, c: 16G, .593 OPS, 60PA, +140
+ 25PA: Capra, Vinny, 2b-of: 8G, .629 OPS, 8PA, +17
+400PA: Caratini, Victor, c: 95G, .642 OPS, 376PA, +24
+300PA: Casali, Curt, c: 57G, .649 OPS, 211PA, +89
+400PA: Castillo, Diego, if-of: 96G, .633 OPS, 339PA, +61
+500PA: Castro, Willi, of-2b: 112G, .651 OPS, 470PA, +30
+300PA: Cave, Jake, of: 54G, .644 OPS, 212PA, +88
+500PA: Celestino, Gilberto, of: 122G, .615 OPS, 416PA, +84
+300PA: Chironos, Robinson, c: 67G, .552 OPS, 264PA, +36
+300PA: Clement, Ernie, if: 69G, .452 OPS, 214PA, +86
+200PA: Collins, Zack, c-1b: 36G, .551 OPS, 129PA, +71
+100PA: Contreras, Mark, of: 28G, .441 OPS, 73PA, +27
+ 25PA: Crook, Narciso, of: 4G, .597 OPS, 10PA, +15
+300PA: Culberson, Charlie, ut: 68G, .640 OPS, 148PA, +152
+500PA: Dalbec, Bobby, if: 117G, .652 OPS, 423PA, +77
+300PA: DeJong, Paul, ss-2b: 77G, .530 OPS, 284PA, +16
+300PA: Delay, Jason, c: 57G, .536 OPS, 200PA, +100
+ 50PA: DeLuzio, Ben, cf: 22G, .492 OPS, 30PA, +20
+200PA: Demeritte, Travis, rf-lf: 26G, .597 OPS, 115PA, +85
+100PA: Diaz, Jordan, 2b-1b: 15G, .621 OPS, 61PA, +39
+ 50PA: Diaz, Yainer, c: 6G, .472 OPS, 11PA, +39
+100PA: Downs, Jeter, if: 14G, .427 OPS, 49PA, +51
+400PA: Dubon, Mauricio, of-if: 104G, .565 OPS, 318PA, +82
+400PA: Duffy, Matt, if: 77G, .619 OPS, 296PA, +104
+300PA: Duran, Ezequiel, 3b-2b: 58G, .643 OPS, 264PA, +36
+200PA: Encarnacion, Jerar, of: 23G, .548 OPS, 97PA, +103
+500PA: Engel, Adam, of: 119G, .579 OPS, 312PA, +188
+200PA: Escobar, Alcides, ss-2b: 40G, .542 OPS, 157PA, +43
+ 50PA: Feliciano, Mario, c: 2G, .650 OPS, 6PA, +44
+ 25PA: Fermin, Freddy, c: 3G, .000 OPS, 8PA, +17
+300PA: Fortes, Nick, c: 72G, .696 OPS, 288PA, +12
+500PA: Franco, Maikel, 3b-1b: 103G, .597 OPS, 463PA, +37
+200PA: Freeman, Tyler, if: 24G, .600 OPS, 103PA, +97
+200PA: Gallagher, Cam, c: 18G, .600 OPS, 56PA, +144
+600PA: Gallo, Joey, of: 126G, .638 OPS, 492PA, +108
+500PA: Garcia, Avisail, of: 98G, .582 OPS, 456PA, +44
+200PA: Garcia, Dermis, 1b: 39G, .652 OPS, 150PA, +50
+500PA: Garcia, Leury, ut: 97G, .500 OPS, 378PA, +122
+400PA: Gomes, Yan, c: 86G, .625 OPS, 351PA, +49
+100PA: Gonzalez, Erik, if: 16G, .485 OPS, 49PA, +51
+300PA: Gonzalez, Marwin, ut: 85G, .576 OPS, 248PA, +52
+500PA: Grandal, Yasmani, c: 99G, .570 OPS, 451PA, +49
+ 50PA: Greiner, Grayson, c: 2G, .542 OPS, 9PA, +51
+100PA: Groshans, Jordan, 3b: 17G, .619 OPS, 78PA, +22
+ 50PA: Hamilton, Caleb, c-1b: 22G, .449 OPS, 27PA, +23
+400PA: Hampson, Garrett, cf-if: 90G, .594 OPS, 271PA, +129
+ 50PA: Haseley, Adam, of: 14G, .571 OPS, 30PA, +20
+300PA: Heineman, Tyler, c: 62G, .544 OPS, 208PA, +92
+100PA: Henry, Payton, c: 15G, .457 OPS, 42PA, +58
+300PA: Heredia, Guillermo, of: 74G, .562 OPS, 98PA, +202
+200PA: Herrera, Jose, c: 47G, .457 OPS, 148PA, +52
+200PA: Heyward, Jason, of: 48G, .556 OPS, 181PA, +19
+300PA: Higgins, P.J., 1b-c: 74G, .693 OPS, 274PA, +26
+300PA: Hilliard, Sam, of: 70G, .544 OPS, 240PA, +60
+300PA: Hummel, Cooper, of: 66G, .580 OPS, 241PA, +59
+200PA: Ibanez, Andy, 3b-2b-1b: 40G, .551 OPS, 153PA, +47
+400PA: Isbel, Kyle, of: 106G, .603 OPS, 333PA, +67
+100PA: Jankowski, Travis, of: 44G, .445 OPS, 76PA, +24
+300PA: Kelenic, Jarred, of: 54G, .534 OPS, 217PA, +83
+500PA: Kelly, Carson, c: 104G, .617 OPS, 424PA, +76
+200PA: Kirilloff, Alex, of: 45G, .651 OPS, 187PA, +13
+100PA: Knapp, Andrew, c: 16G, .393 OPS, 55PA, +45
+400PA: Knizner, Andrew, c: 96G, .601 OPS, 351PA, +49
+100PA: Lagares, Juan, of: 20G, .460 OPS, 74PA, +26
+ 50PA: Lee, Korey, c: 12G, .432 OPS, 31PA, +19
+200PA: Leon, Sandy, c: 26G, .509 OPS, 100PA, +100
+100PA: Lewis, Kyle, of: 18G, .529 OPS, 74PA, +26
+200PA: Lopez, Alejo, ut: 59G, .645 OPS, 187PA, +13
+300PA: Luplow, Jordan, of: 83G, .634 OPS, 280PA, +20
+ 50PA: Machado, Dixon, ss: 5G, .494 OPS, 20PA, +30
+400PA: Machin, Vimael, if: 73G, .587 OPS, 303PA, +97
+300PA: Madrigal, Nick, 2b: 59G, .588 OPS, 273PA, +27
+200PA: Madris, Bligh, of: 39G, .509 OPS, 147PA, +53
+300PA: Maile, Luke, c: 76G, .627 OPS, 247PA, +53
+500PA: Maldonado, Martin, c: 113G, .600 OPS, 454PA, +46
+300PA: Marcano, Tucupita, of-if: 49G, .562 OPS, 212PA, +88
+ 50PA: Mastrobuoni, Miles, 2b-rf: 8G, .423 OPS, 20PA, +30
+200PA: Matijevic, J.J., 1b-lf: 32G, .582 OPS, 85PA, +115
+100PA: Mayfield, Jack, if-of: 23G, .501 OPS, 88PA, +12
+200PA: Mazeika, Patrick, c: 24G, .508 OPS, 86PA, +114
+300PA: McCann, James, c: 61G, .538 OPS, 229PA, +71
+300PA: McKinstry, Zach, if-of: 57G, .635 OPS, 222PA, +78
+200PA: Mercado, Oscar, of: 55G, .614 OPS, 153PA, +47
+200PA: Mercedes, Yermin, lf-1b-c: 31G, .668 OPS, 99PA, +101
+300PA: Meyers, Jake, cf: 57G, .582 OPS, 192PA, +108
+400PA: Miller, Brad, of-3b: 81G, .590 OPS, 289PA, +111
+300PA: Mitchell, Calvin, of: 69G, .635 OPS, 278PA, +22
+400PA: Molina, Yadier, c: 78G, .535 OPS, 324PA, +76
+100PA: Munoz, Yairo, 2b-3b-of: 29G, .654 OPS, 72PA, +28
+400PA: Narvaez, Omar, c: 84G, .597 OPS, 355PA, +45
+400PA: Neuse, Sheldon, if: 89G, .561 OPS, 351PA, +49
+300PA: Nevin, Tyler, 3b-1b-of: 58G, .560 OPS, 220PA, +80
+400PA: Nido, Tomas, c: 98G, .600 OPS, 375PA, +25
+500PA: Nola, Austin, c: 110G, .649 OPS, 476PA, +24
+100PA: Nunez, Dom, c: 14G, .395 OPS, 49PA, +51
+300PA: O'Hearn, Ryan, 1b: 67G, .611 OPS, 174PA, +126
+ 50PA: O'Hoppe, Logan, c: 5G, .661 OPS, 19PA, +31
+ 25PA: Okey, Chris, c: 7G, .397 OPS, 15PA, +10
+500PA: Ortega, Rafael, of: 118G, .688 OPS, 445PA, +55
+200PA: Palacios, Richie, of: 54G, .578 OPS, 147PA, +53
+100PA: Park, Hoy, if-rf: 23G, .648 OPS, 72PA, +28
+ 50PA: Perez, Carlos, c: 7G, .556 OPS, 21PA, +29
+200PA: Perez, Michael, c: 45G, .511 OPS, 158PA, +42
+300PA: Phillips, Brett, of: 83G, .466 OPS, 270PA, +30
+ 50PA: Pina, Manny, c: 5G, .378 OPS, 20PA, +30
+200PA: Pinto, Rene, c: 25G, .566 OPS, 99PA, +101
+200PA: Piscotty, Stephen, of: 42G, .593 OPS, 166PA, +34
+300PA: Plawecki, Kevin, c: 63G, .572 OPS, 223PA, +77
+300PA: Pratto, Nick, 1b: 49G, .657 OPS, 218PA, +82
+ 50PA: Proctor, Ford, c-2b: 7G, .460 OPS, 26PA, +24
+100PA: Raley, Luke, of: 22G, .584 OPS, 86PA, +14
+100PA: Reks, Zach, of: 16G, .559 OPS, 40PA, +60
+ 50PA: Reyes, Pablo, if: 5G, .579 OPS, 19PA, +31
+400PA: Reynolds, Matt, ut: 93G, .652 OPS, 326PA, +74
+400PA: Rivas, Alfonso, 1b-of: 101G, .628 OPS, 344PA, +56
+100PA: Robinson, Chuckie, c: 25G, .407 OPS, 72PA, +28
+600PA: Robles, Victor, cf: 132G, .584 OPS, 488PA, +112
+200PA: Romine, Austin, c: 51G, .435 OPS, 163PA, +37
+500PA: Ruf, Darin, 1b-of: 118G, .645 OPS, 465PA, +35
+400PA: Schwindel, Frank, 1b: 75G, .635 OPS, 350PA, +50
+300PA: Serven, Brian, c: 62G, .593 OPS, 246PA, +54
+ 50PA: Severino, Pedro, c: 8G, .667 OPS, 25PA, +25
+500PA: Siri, Jose, of: 104G, .607 OPS, 390PA, +110
+300PA: Smith, Dominic, 1b: 58G, .560 OPS, 182PA, +118
+400PA: Smith, Josh, of-if: 73G, .556 OPS, 303PA, +97
+400PA: Smith, Pavin, rf-1b: 75G, .667 OPS, 333PA, +67
+300PA: Sosa, Edmundo, ut: 78G, .644 OPS, 228PA, +72
+500PA: Stallings, Jacob, c: 114G, .584 OPS, 460PA, +40
+500PA: Stassi, Max, c: 102G, .571 OPS, 450PA, +50
+100PA: Stevenson, Cal, of: 23G, .478 OPS, 85PA, +15
+100PA: Strange-Gordon, Dee, ut: 22G, .661 OPS, 70PA, +30
+300PA: Suzuki, Kurt, c: 51G, .561 OPS, 190PA, +110
+100PA: Thaiss, Matt, c-1b-lf: 29G, .640 OPS, 97PA, +3
+500PA: Thomas, Alek, of: 113G, .619 OPS, 493PA, +7
+300PA: Thompson, Bubba, of: 55G, .613 OPS, 217PA, +83
+200PA: Toglia, Michael, 1b: 31G, .653 OPS, 144PA, +56
+500PA: Torkelson, Spencer, 1b: 110G, .604 OPS, 484PA, +16
+500PA: Toro, Abraham, 2b-3b-rf-1b: 109G, .563 OPS, 422PA, +78
+300PA: Torrens, Luis, c: 55G, .581 OPS, 199PA, +101
+300PA: Tsutsugo, Yoshi, 1b: 50G, .478 OPS, 231PA, +69
+100PA: Tucker, Cole, rf-if: 18G, .397 OPS, 75PA, +25
+100PA: Upton, Justin, of: 17G, .471 OPS, 68PA, +32
+300PA: VanMeter, Josh, 2b-1b: 67G, .558 OPS, 230PA, +70
+100PA: Vargas, Miguel, 3b: 18G, .455 OPS, 60PA, +40
+300PA: Velasquez, Nelson, of: 77G, .659 OPS, 247PA, +53
+500PA: Velazquez, Andrew, ss: 125G, .540 OPS, 418PA, +82
+500PA: Vierling, Matt, of-if: 117G, .648 OPS, 428PA, +72
+300PA: Villar, Jonathan, if: 59G, .562 OPS, 264PA, +36
+300PA: Wade, Tyler, if-of: 67G, .544 OPS, 195PA, +105
+ 50PA: Walker, Steele, of: 5G, .473 OPS, 19PA, +31
+100PA: Wallach, Chad, c: 12G, .488 OPS, 48PA, +52
+100PA: Walton, Donovan, of-3b: 25G, .482 OPS, 95PA, +5
+500PA: Wendle, Joey, if: 101G, .658 OPS, 445PA, +55
+200PA: White, Eli, of: 47G, .578 OPS, 140PA, +60
+300PA: Williams, Luke, ut: 79G, .602 OPS, 163PA, +137
+300PA: Zimmer, Bradley, of: 109G, .435 OPS, 140PA, +160
+200PA: Zunino, Mike, c: 36G, .499 OPS, 147PA, +53
+
+
+------------------------------------------------
+
+Pitchers, alphabetized
+
+Abbott, Cory (15GS, 13, +2)
+Adon, Joan (20GS, 18, +2)
+Alexander, Jason (20GS, 15, +5)
+Alexander, Tyler (25GS, 21, +4)
+Armstrong, Shawn (10GS, 7, +3)
+Beeks, Jalen (15GS, 11, +4)
+Castellanos, Humberto (15GS, 13, +2)
+Castillo, Max (15GS, 10, +5)
+Cessa, Luis (15GS, 14, +1)
+Dunn, Justin (15GS, 11, +4)
+Espino, Paolo (25GS, 23, +2)
+Feltner, Ryan (25GS, 23, +2)
+Fleming, Josh (10GS, 7, +3)
+Gomber, Austin (25GS, 21, +4)
+Gonzalez, Chi Chi (10GS, 9, +1)
+Gutierrez, Vladimir (15GS, 12, +3)
+Hearn, Taylor (20GS, 17, +3)
+Hernandez, Carlos (15GS, 11, +4)
+Hernandez, Elieser (15GS, 14, +1)
+Hicks, Jordan (15GS, 12, +3)
+Howard, Spencer (15GS, 12, +3)
+Keller, Brad (30GS, 26, +4)
+Kikuchi, Yusei (25GS, 24, +1)
+Koenig, Jared (10GS, 9, +1)
+Martinez, Nick (20GS, 14, +6)
+Minor, Mike (25GS, 23, +2)
+Naughton, Packy (10GS, 7, +3)
+Norris, Daniel (10GS, 7, +3)
+Oller, Adam (20GS, 18, +2)
+Peters, Dillon (10GS, 8, +2)
+Peterson, David (25GS, 23, +2)
+Rodriguez, Elvin (10GS, 9, +1)
+Sanchez, Aaron (15GS, 14, +1)
+Schmidt, Clarke (10GS, 7, +3)
+Senzatela, Antonio (25GS, 23, +2)
+Silseth, Chase (15GS, 11, +4)
+Swarmer, Matt (10GS, 9, +1)
+Thompson, Keegan (25GS, 21, +4)
+Thompson, Zach (30GS, 26, +4)
+Urena, Jose (25GS, 21, +4)
+Voth, Austin (25GS, 21, +4)
+White, Mitch (25GS, 22, +3)
+Wilson, Bryse (25GS, 24, +1)
+Winckowski, Josh (20GS, 18, +2)
+
+

@@ -1,0 +1,101 @@
+2023 Restricted Players
+
+Here's the list for the 2023 CFA season. Thanks to Chris Roy for compiling 
+the spreadsheet that has this information. The qualifications that will get you 
+on the list, as listed in the CFA constitution:
+
+Platoon Limitations
+
+Players who achieve a high degree of success in relatively few appearances 
+versus LEFT-handed pitching and carry a large platoon differential will be 
+limited in the number of appearances they can make against LEFT-handed 
+pitching. The same applies to players who achieve a high degree of success 
+in limited appearances versus RIGHT-handed pitching and carry a large platoon 
+differential. The formula for determining platoon-limited players:
+
+-- Side limited must have fewer than 60 AB+BB 
+-- Side limited must have a platoon differential OPS >= .200 
+-- Side limited must have OPS > .700
+
+However, some players who would ordinarily be side-limited but have less than 
+20 plate appearances against that side have been removed from this list. DMB 
+"normalizes" sides with under 20 PAs by adding replacement-level playing time 
+to reach 20 PAs, so several players with a great handful of PAs against a side 
+are no longer limited.
+
+Platoon-limited players are restricted to their number of real-life plate 
+appearances against their limited side. There are no restrictions on when 
+such players can be used, only in the amount of plate appearances allowed.
+
+IMPORTANT: The league office intends to penalize overusage of these limits by 
+even a plate appearance. Because most of these plate appearances can be used 
+in high-leverage situations, it's incumbent on owners to manage these players' 
+appearances, including but not limited to the following measures:
+
+-- Netplaying your home games as much as possible
+-- Minimizing home starts by such players, where a reliever from the limited 
+   side can use up restricted plate appearances in low-leverage situations
+-- Encouraging use of such a player's platoon partner 
+-- Using such players with expanded rosters in Innings 8 and 9 road games 
+   and deactivating them at home
+-- Leaving playing time on the table as a cushion against overuse
+
+RESTRICTED LIST
+
+Nick Ahmed 38 PA v R
+Abraham Almonte# 32 PA v R
+Tres Barrera 18 PA v R
+Matt Beaty* 3 PA v L
+Dairon Blanco 3 PA v L
+Will Brennan* 39 PA v R
+Lewis Brinson 31 PA v L
+Vidal Brujan# 57 PA v L
+Jake Burger 49 PA v L
+Willie Calhoun* 6 PA v L
+Daz Cameron 23 PA v L
+Kody Clemens* 22 PA v L
+Jonathan Davis 21 PA v L
+Austin Dean 3 PA v R
+Joe Dunand 4 PA v L
+Nate Eaton 35 PA v L
+Drew Ellis 7 PA v L
+Mike Ford* 27 PA v L
+TJ Friedl* 22 PA v L
+Aramis Garcia 27 PA v L
+Maikel Garcia 8 PA v L
+Romy Gonzalez 37 PA v L
+Vaughn Grissom 48 PA v L
+Dalton Guthrie 13 PA v R
+Jake Hager 23 PA v L
+Monte Harrison 7 PA v R
+David Hensley 19 PA v R
+Derek Hill 28 PA v L
+Josh Jung 38 PA v L
+Buddy Kennedy 47 PA v L
+Mark Kolozsvary 9 PA v R
+Tim Locastro 17 PA v L
+Jake Marisnick 39 PA v R
+Richie Martin 12 PA v L
+Danny Mendick 26 PA v L
+Edward Olivares 50 PA v L
+Kevin Pillar 4 PA v L 
+Nick Plummer* 21 PA v R
+Roman Quinn# 48 PA v R
+Esteban Quiroz* 8 PA v L
+Anthony Rendon 59 PA v L
+Sebastian Rivero 10 PA v L
+Max Schrock* 3 PA v L
+Kevin Smith 55 PA v L
+Nick Solak 51 PA v L
+Livan Soto* 35 PA v R
+Spencer Steer 23 PA v L
+Michael Stefanic 35 PA v R
+Kyle Stowers* 4 PA v L
+Garrett Stubbs* 29 PA v L
+Cody Thomas* 3 PA v L
+Ezequiel Tovar 11 PA v L
+Mark Vientos 22 PA v L
+Meibrys Viloria* 8 PA v L
+Matt Wallner* 47 PA v R
+Connor Wong 38 PA v R
+
